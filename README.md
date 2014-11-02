@@ -46,6 +46,16 @@ task:
 build a REST API
 build your own router & own controller(handler)
 
+##coffeescript
+[http://coffeescript.org/][8]
+
+##ref note
+http://nodejs.org/api/
+[js evernote][9]
+[Bilding web apps with node.js, socket.io, knockout.js and zombie.js][10]
+[Efficient use of NodeJS][11]
+[Introduction to Node.js][12]
+
 
   [1]: http://nodejs.org
   [2]: http://npmjs.org
@@ -54,3 +64,8 @@ build your own router & own controller(handler)
   [5]: http://blog.fens.me/nodejs-mongoose-json/
   [6]: http://www.2cto.com/database/201409/332162.html
   [7]: http://sailsjs.org
+  [8]: http://coffeescript.org/
+  [9]: https://www.evernote.com/pub/no7dw/javascriptnodejs
+  [10]: http://www.slideshare.net/iloire/building-web-apps-with-nodejs-socketio-knockoutjs-and-zombiejs-codemotion-2012
+  [11]: http://www.slideshare.net/yurabogdanov/nodejs-talken?qid=7415769d-6ec1-471e-bdc5-f0e962799ea1&v=default&b=&from_search=12
+  [12]: http://www.slideshare.net/vikasing/introduction-to-nodejs-11730771
